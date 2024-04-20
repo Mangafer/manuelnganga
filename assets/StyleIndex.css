@@ -138,8 +138,8 @@ body {
 
 .imgperfil {
     position: relative;
-    width: 60vh;
-    height: 60vh;
+    width: 55vh;
+    height: 55vh;
     display: flex;
     justify-content: center;
     padding: 8px;
@@ -150,9 +150,9 @@ body {
 }
 
 .imgperfil img {
-    width: 57vh;
+    width: 51vh;
     position: relative;
-    height: 57vh;
+    height: 51vh;
     top: 0;
     right: 0;
     border-radius: 50% 50%;
