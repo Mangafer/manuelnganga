@@ -137,12 +137,12 @@ body {
 }
 
 .imgperfil {
-    position: relative;
-    width: 40vh;
-    height: 40vh;
+ position: relative;
+    width: 110px;
+    height: 110px;
     display: flex;
     justify-content: center;
-    padding: 8px;
+  padding-top: 2.5px;
     border: 3px solid #00abf0;
     border-radius: 50% 50%;
     margin-right: 12vh;
@@ -150,9 +150,10 @@ body {
 }
 
 .imgperfil img {
-    width: 37vh;
+width:99px;
     position: relative;
-    height: 37vh;
+
+    height: 99px;
     top: 0;
     right: 0;
     border-radius: 50% 50%;
